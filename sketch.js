@@ -3,8 +3,8 @@ let counter = 0;
 let change = 1;
 let data = 0;
 let raleway;
-let t = "exhale...   repeat,";
-let i = "press down and inhale..."
+let t = "inhale... exhale...";
+let i = "press down to begin.";
 let song;
 var loadGif, createGif
 
